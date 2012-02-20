@@ -1,4 +1,5 @@
 ;;; drupal-mode.el --- major mode for Drupal coding
+;;; https://github.com/jrbeeman/drupal-mode
 ;;; Requires php-mode: https://github.com/ejmr/php-mode
 
 ;;;###autoload
