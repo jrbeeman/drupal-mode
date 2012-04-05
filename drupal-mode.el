@@ -16,5 +16,5 @@
   (c-set-offset 'arglist-intro '+) ; for FAPI arrays and DBTNG
   (c-set-offset 'arglist-cont-nonempty 'c-lineup-math) ; for DBTNG fields and values
   (run-mode-hooks 'drupal-mode-hook)
-)
+  )
 (provide 'drupal-mode)
